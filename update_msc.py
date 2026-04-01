@@ -20,35 +20,29 @@ DISPLAY_NAME = "🏳️MSC VPN🗽WHITE LIST⚪"
 
 def main():
     try:
-        # 1. Загрузка ключей Black Vless
-        print("Загрузка...")
+        print("Загрузка BLACK VLESS...")
         resp = requests.get(SOURCE_URL, timeout=30)
         resp.raise_for_status()
         
-        # 2. Обработка
         modified = [f"#profile-title: {DISPLAY_NAME}"]
         for line in resp.text.splitlines():
             if line.strip():
                 link = line.split('#')[0]
                 modified.append(f"{link}#MSC%20VPN")
         
-        # 3. Обновление Gist
         print("Обновление Gist...")
         headers = {"Authorization": f"token {GH_TOKEN}"}
         data = {"files": {"msc_vpn.txt": {"content": "\n".join(modified)}}}
         requests.patch(f"https://api.github.com/gists/{GIST_ID}", headers=headers, json=data).raise_for_status()
 
-        # 4. Ссылка для уведомлений
         raw_url = f"https://gist.githubusercontent.com/raw/{GIST_ID}/msc_vpn.txt"
         final_url = f"{raw_url}#{urllib.parse.quote(DISPLAY_NAME)}"
         msg = f"✅ {DISPLAY_NAME} обновлен!\n\nСсылка:\n{final_url}"
 
-        # 5. Telegram
-        requests.post(f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage", 
-                      data={"chat_id": CHAT_ID, "text": msg})
+        # TG
+        requests.post(f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage", data={"chat_id": CHAT_ID, "text": msg})
         
-        # 6. Почта на corbih.msc@mail.ru
-        print("Отправка на почту...")
+        # Почта
         email_msg = MIMEText(msg, 'plain', 'utf-8')
         email_msg['Subject'] = Header("MSC VPN Update", 'utf-8')
         email_msg['From'] = SMTP_USER
@@ -57,8 +51,7 @@ def main():
         with smtplib.SMTP_SSL('smtp.mail.ru', 465) as server:
             server.login(SMTP_USER, SMTP_PASSWORD)
             server.sendmail(SMTP_USER, [EMAIL_TO], email_msg.as_string())
-        
-        print("Готово! Всё сработало.")
+        print("Готово!")
 
     except Exception as e:
         print(f"Ошибка: {e}")
