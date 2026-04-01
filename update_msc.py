@@ -5,7 +5,7 @@ import urllib.parse
 from email.mime.text import MIMEText
 from email.header import Header
 
-# Секреты
+# Секреты (убедись, что они добавлены в Settings -> Secrets этого репозитория)
 GIST_ID = os.getenv("GIST_ID")
 GH_TOKEN = os.getenv("GH_TOKEN")
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
@@ -13,14 +13,13 @@ CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 SMTP_USER = os.getenv("SMTP_USER")      
 SMTP_PASSWORD = os.getenv("SMTP_PASSWORD") 
 
-# Настройки
 EMAIL_TO = "corbih.msc@mail.ru"
 SOURCE_URL = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt"
 DISPLAY_NAME = "🏳️MSC VPN🗽WHITE LIST⚪"
 
 def main():
     try:
-        print("Загрузка BLACK VLESS...")
+        print("Скачивание ключей...")
         resp = requests.get(SOURCE_URL, timeout=30)
         resp.raise_for_status()
         
@@ -39,10 +38,11 @@ def main():
         final_url = f"{raw_url}#{urllib.parse.quote(DISPLAY_NAME)}"
         msg = f"✅ {DISPLAY_NAME} обновлен!\n\nСсылка:\n{final_url}"
 
-        # TG
-        requests.post(f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage", data={"chat_id": CHAT_ID, "text": msg})
+        # Отправка TG
+        requests.post(f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage", 
+                      data={"chat_id": CHAT_ID, "text": msg})
         
-        # Почта
+        # Отправка Email
         email_msg = MIMEText(msg, 'plain', 'utf-8')
         email_msg['Subject'] = Header("MSC VPN Update", 'utf-8')
         email_msg['From'] = SMTP_USER
@@ -51,11 +51,12 @@ def main():
         with smtplib.SMTP_SSL('smtp.mail.ru', 465) as server:
             server.login(SMTP_USER, SMTP_PASSWORD)
             server.sendmail(SMTP_USER, [EMAIL_TO], email_msg.as_string())
-        print("Готово!")
+        print("Выполнено успешно!")
 
     except Exception as e:
         print(f"Ошибка: {e}")
 
+# ОБЯЗАТЕЛЬНО: Двойные подчеркивания здесь!
 if __name__ == "__main__":
     main()
     
