@@ -1,9 +1,9 @@
 name: MSC VPN Update
 
 on:
-  workflow_dispatch:        # Эта строка создает кнопку "Run workflow"
+  workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'    # Авто-запуск каждые 6 часов
+    - cron: '0 */6 * * *'
 
 jobs:
   build:
@@ -22,7 +22,6 @@ jobs:
 
       - name: Execute Python script
         env:
-          # Привязываем твои секреты к коду
           GIST_ID: ${{ secrets.GIST_ID }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
