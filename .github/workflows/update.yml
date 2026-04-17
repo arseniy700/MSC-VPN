@@ -2,18 +2,22 @@ name: Update VPN Subscription
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Запуск каждые 6 часов
-  workflow_dispatch: # Возможность запустить вручную
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Добавляем явные права доступа
+    permissions:
+      contents: write
+    
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
@@ -25,9 +29,9 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add subscription.txt
-          git commit -m "Update subscription: 🆓Free MSC VPN🗽" || exit 0
-          git push
+          # Проверка: если файл не изменился, просто выходим без ошибки
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update: 🆓Free MSC VPN🗽" && git push)
           
