@@ -1,8 +1,9 @@
-#🆓Free MSC VPN🗽 ( profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Mobile-150)
-#🆓Free MSC VPN🗽 ( profile-update-interval: 5)
-#🆓Free MSC VPN🗽 ( Date/Time: 2026-04-17 / 21:43 (Moscow))
-#🆓Free MSC VPN🗽 ( Количество: 150)
-#🆓Free MSC VPN🗽 ( For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia)
+#profile-title: 🆓Free MSC VPN🗽
+#profile-update-interval: 6
+#announce: 🚀 Нажми на спидометр или молнию, чтобы проверить соединение.
+#support-url: https://t.me/msc_vpn_support_bot
+#profile-web-page-url: https://t.me/MRV_S_C
+
 vless://3550484c-bc52-499c-ae2f-5f0654f64a9f@purple-forest.ru:443?type=xhttp&security=tls&encryption=none&path=/7RSnZC8t&mode=packet-up#🆓Free MSC VPN🗽 (%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D)
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=google.com&type=ws#🆓Free MSC VPN🗽 (%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Limburg%20an%20der%20Lahn%20%7C%20%5BBL%5D)
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🆓Free MSC VPN🗽 (%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D)
