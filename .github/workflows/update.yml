@@ -1,0 +1,33 @@
+name: Update VPN Subscription
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Запуск каждые 6 часов
+  workflow_dispatch: # Возможность запустить вручную
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run script
+        run: python update.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add subscription.txt
+          git commit -m "Update subscription: 🆓Free MSC VPN🗽" || exit 0
+          git push
+          
