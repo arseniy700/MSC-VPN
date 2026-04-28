@@ -4,43 +4,37 @@ import base64
 SOURCE_URL = "https://sub.pfvpn.cfd/free/sub"
 SUB_NAME = "🆓Free MSC VPN🗽"
 
-def transform_configs():
+def get_data():
     try:
-        headers = {'User-Agent': 'v2rayNG/1.8.5'}
-        response = requests.get(SOURCE_URL, headers=headers, timeout=15)
+        # Пытаемся получить данные с правильным заголовком
+        r = requests.get(SOURCE_URL, headers={'User-Agent': 'v2rayNG'}, timeout=20)
+        text = r.text.strip()
         
-        # Декодируем Base64, если источник зашифрован
+        # Если это Base64, декодируем его
         try:
-            content = base64.b64decode(response.text).decode('utf-8')
+            decoded = base64.b64decode(text).decode('utf-8')
+            return decoded
         except:
-            content = response.text
-            
-        lines = content.splitlines()
-        processed_lines = []
-
-        for line in lines:
-            line = line.strip()
-            if not line or line.startswith("#"):
-                continue
-            
-            # Меняем название сервера на твое
-            if "#" in line:
-                config_part, old_name = line.rsplit("#", 1)
-                new_line = f"{config_part}#{SUB_NAME} ({old_name})"
-            else:
-                new_line = f"{line}#{SUB_NAME}"
-            
-            processed_lines.append(new_line)
-
-        return "\n".join(processed_lines)
-
+            return text # Если это уже текст, возвращаем как есть
     except Exception as e:
-        print(f"Ошибка: {e}")
+        print(f"Ошибка загрузки: {e}")
         return None
 
-if __name__ == "__main__":
-    result = transform_configs()
-    if result:
-        with open("subscription.txt", "w", encoding="utf-8") as f:
-            f.write(result)
-            
+data = get_data()
+if data:
+    lines = data.splitlines()
+    final = []
+    for line in lines:
+        if line.startswith("vless://") or line.startswith("ss://") or line.startswith("vmess://"):
+            # Очищаем от старых имен и ставим твое
+            if "#" in line:
+                core = line.split("#")[0]
+                old_name = line.split("#")[1]
+                final.append(f"{core}#{SUB_NAME} ({old_name})")
+            else:
+                final.append(f"{line}#{SUB_NAME}")
+    
+    with open("subscription.txt", "w", encoding="utf-8") as f:
+        f.write("\n".join(final))
+    print("Файл успешно перезаписан!")
+    
