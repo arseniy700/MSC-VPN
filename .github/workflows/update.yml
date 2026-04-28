@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} # Явно используем токен
+          fetch-depth: 0 # Загружаем всю историю для корректного пуша
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -33,13 +33,11 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add subscription.txt
-          
-          # Проверяем изменения
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update: 🆓Free MSC VPN🗽"
-            # Принудительный пуш, чтобы избежать конфликтов
-            git push origin main
+            git commit -m "Force Update: 🏳️MSC VPN🗽"
+            # Используем force push для обновления старого файла
+            git push origin main --force
           fi
           
