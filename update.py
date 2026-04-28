@@ -4,6 +4,7 @@ import base64
 SOURCE_URL = "https://sub.pfvpn.cfd/free/sub"
 SUB_TITLE = "🏳️MSC VPN🗽"
 SERVER_PREFIX = "MSC"
+SUPPORT_BOT = "https://t.me/msc_vpn_support_bot"
 
 def transform():
     try:
@@ -16,8 +17,20 @@ def transform():
             content = text
             
         lines = content.splitlines()
-        # Новая шапка
-        final = [f"#profile-title: {SUB_TITLE}", "#profile-update-interval: 6", ""]
+
+        # Формируем мета-данные (шапку)
+        final = [
+            f"#profile-title: {SUB_TITLE}",
+            "#profile-update-interval: 6",
+            # Трафик: использовано 0, лимит бесконечность (в байтах)
+            "#subscription-userinfo: upload=0; download=0; total=0; expire=0",
+            # Кнопка 'i' и иконка Telegram
+            f"#support-url: {SUPPORT_BOT}",
+            f"#profile-web-page-url: {SUPPORT_BOT}",
+            # Описание снизу
+            "#announce: 🏳️БЕЛЫЕ СПИСКИ🗽\n⚠️ВАЖНО: НЕ РЕКОМЕНДУЕТСЯ ИСПОЛЬЗОВАТЬ СЕРВЕРА ПРОТИВ ГЛУШИЛОК НА Wi-Fi\n🆘Для помощи нажмите на значёк телеграмма",
+            "" 
+        ]
         
         for line in lines:
             line = line.strip()
