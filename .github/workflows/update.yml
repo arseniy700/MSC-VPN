@@ -2,8 +2,9 @@ name: Update VPN Subscription
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    # Обновление каждые 30 минут
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Оставляем кнопку для ручного запуска
 
 jobs:
   build:
@@ -15,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Загружаем всю историю для корректного пуша
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -36,8 +37,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Force Update: 🏳️MSC VPN🗽"
-            # Используем force push для обновления старого файла
+            git commit -m "Auto-update (30 min): 🏳️MSC VPN🗽"
             git push origin main --force
           fi
           
