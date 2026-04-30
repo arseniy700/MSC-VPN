@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=1
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#version: 1777572679
+#version: 1777578958
 #announce: ❌ СРОК ДЕЙСТВИЯ ПОДПИСКИ ИСТЁК | 🆘 Помощь: @msc_vpn_support_bot
 
 vless://expired-id@0.0.0.0:443?encryption=none&type=tcp#❗ПОДПИСКА ИСТЕКЛА
