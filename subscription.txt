@@ -3,12 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1780317217
+#last-update: 1780338943
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@ru7.vitok.cc:443?type=tcp&security=reality&fp=chrome&pbk=eXl8Dpux23etQ0aA_16LUQ9eBwfDqbCaJm7YusDIzUU&sid=5e841fab&sni=ads.x5.ru#MSC %F0%9F%87%AB%F0%9F%87%AE%20%231%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
+vless://56470441-5d85-4266-89f3-c2b5b000c522@128.75.228.189:443?encryption=none&type=xhttp&security=tls&host=ftatx5g6dt.cdn.twcstorage.ru&path=%2F&extra=null&fp=chrome&sni=ftatx5g6dt.cdn.twcstorage.ru&alpn=h2%2Chttp%2F1.1#MSC %F0%9F%87%A8%F0%9F%87%BF%20%231%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none#MSC ⬇️ ОБЫЧНЫЕ СЕРВЕРЫ
-vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@sweden.cloudpath.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=QlU9N0pOM_MrRXMILFcsTjrYD3SJzLvavAK8fIqcwFs&sid=6a0d77bf#MSC %F0%9F%87%B8%F0%9F%87%AA%20%231%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%7C%20Reality
-vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@germany.cloudpath.live:443?encryption=none&fp=&pbk=9LTpivOtvUds71_Hxmqk7vfeMx7JeHB0aJuaQX6xXzI&security=reality&sid=065ee439&sni=microsoft.com&type=tcp#MSC %F0%9F%87%A9%F0%9F%87%AA%20%232%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20Reality
-vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@czech.cloudpath.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=34gATkr8QhXe26zX625mas0MbhhG-1XSISJxwLtdt1k&sid=17ee7ac1#MSC %F0%9F%87%A8%F0%9F%87%BF%20%233%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%20%7C%20Reality
-vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@finland.cloudpath.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=f7IfVwkipbZFQN0MDsBrHiANTcpSebrdIyOwL_0pOGc&sid=2478b338#MSC %F0%9F%87%AB%F0%9F%87%AE%20%234%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20Reality
+vless://0ddc1b7c-ce23-4a30-8ede-8a9e19f02fb7@vrubg.mostserv.xyz:443?security=reality&encryption=none&echfq=none&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vrubg.mostserv.xyz&sid=226509f017e4c36d#MSC %F0%9F%87%B3%F0%9F%87%B1%20%231%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20Reality
+vless://0ddc1b7c-ce23-4a30-8ede-8a9e19f02fb7@vnldc.mostserv.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vnldc.mostserv.xyz&fp=qq&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d&flow=xtls-rprx-vision#MSC %F0%9F%87%B3%F0%9F%87%B1%20%232%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20Reality
