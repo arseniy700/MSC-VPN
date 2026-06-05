@@ -3,8 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1780686185
+#last-update: 1780693595
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://478ada59-0a0a-4467-9d76-af3dcbdfd4eb@51.250.102.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#MSC %F0%9F%87%B7%F0%9F%87%BA%20%231%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
-vless://478ada59-0a0a-4467-9d76-af3dcbdfd4eb@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#MSC %F0%9F%87%B7%F0%9F%87%BA%20%232%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
+vless://e19966ec-7628-5252-89d2-43b5d4e51264@pl-1.illusion-vpn.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=pl-1.illusion-vpn.ru&fp=chrome&pbk=ExcIQDzOvrpzbDgbLufmt33F-ObNGHXx6rjEvzn76jI&sid=2e83619c7975b870&spx=%2F&flow=xtls-rprx-vision#MSC %F0%9F%87%BA%F0%9F%87%B8%20%231%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@72.56.18.179:443?type=tcp&security=reality&pbk=8xufuXmVTmxmM9SKIN1P6x3CFstZdl1mfSxr_LfOkDQ&fp=firefox&sni=www.ya.ru&sid=2af15d98#MSC %F0%9F%87%B3%F0%9F%87%B1%20%232%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20Reality
