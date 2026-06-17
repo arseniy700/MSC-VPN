@@ -3,7 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1781698429
+#last-update: 1781712642
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
+vless://3c140068-433c-4b73-8368-d278f7ecffb9@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#MSC %F0%9F%87%A9%F0%9F%87%AA%20%231%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
+vless://3c140068-433c-4b73-8368-d278f7ecffb9@51.250.24.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#MSC %F0%9F%87%A9%F0%9F%87%AA%20%232%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none#MSC ⬇️ ОБЫЧНЫЕ СЕРВЕРЫ
 vless://ff19693c-11f3-4df9-8713-79a85a5ca090@186.246.9.168:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#MSC %F0%9F%87%B7%F0%9F%87%BA%20%231%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20Reality
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@194.87.143.111:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=se.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#MSC %F0%9F%87%B8%F0%9F%87%AA%20%232%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%7C%20Reality
+vless://039a1658-e86e-475f-a3a4-67cc249acada@46.8.98.55:443?flow=xtls-rprx-vision&fp=firefox&pbk=MFuAxjdSnjCk_8Vi_-KGyWryFfSmm902nVhACDSIzBw&security=reality&sid=d9d688fc488ae13b&sni=us1.panel11.ru&type=tcp#MSC %F0%9F%87%BA%F0%9F%87%B8%20%233%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://99bab912-34c6-4db1-96b8-ec6a3703fa4e@109.237.98.81:443?flow=xtls-rprx-vision&fp=firefox&pbk=uAabfPYujQGS9CY-h1on-TOtHU-y-vrumPXWo6G6AVg&security=reality&sid=e92d8fca&sni=api-maps.yandex.ru&spx=%2FPveQDE6OVbhk5AQ&type=tcp#MSC %F0%9F%87%B7%F0%9F%87%BA%20%234%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20Reality
+vless://a7c1cac3-31ff-4fba-b058-d339bbc5d57e@91.92.33.160:443?fp=firefox&mode=auto&pbk=YVrLGeAqWASbslGjMbuD2iKaWrrObYGE-c1KaLNl7S4&security=reality&sni=nrx.deurocket.org&type=xhttp#MSC %F0%9F%87%A9%F0%9F%87%AA%20%235%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20Reality
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@155.212.182.19:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=wildberries.ru&pbk=A7g4cVaB6_5cmIrGbv-PmkVpS4pvHWp2HfLZbjv-SDQ&sid=5e841fab#MSC %F0%9F%87%B7%F0%9F%87%BA%20%236%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20Reality
