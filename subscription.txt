@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1781891602
+#last-update: 1781898305
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@194.58.88.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rutube.ru&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#MSC %F0%9F%87%B7%F0%9F%87%BA%20%231%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20Reality
+vless://faf003c5-c51f-4bb9-97e2-d0a83c82fe0f@67.230.170.34:443?security=reality&encryption=none&pbk=W8EC_sqWKPJMhMoIC1RnreTPw9h9SqhG0Eo30d087Xo&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.nvidia.com&sid=979f23f334ae03#MSC %F0%9F%87%BA%F0%9F%87%B8%20%231%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
