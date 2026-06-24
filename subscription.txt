@@ -3,12 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1782328164
+#last-update: 1782335335
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.191.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rezerv8.yunus.guru&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864#MSC %F0%9F%87%B3%F0%9F%87%B1%20%231%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none#MSC ⬇️ ОБЫЧНЫЕ СЕРВЕРЫ
-vless://e026a9f0-e5fe-49a4-b8ad-f4a0f895442c@cz-smart.t1n2.com:443?type=tcp&security=reality&sni=cz-smart.t1n2.com&fp=firefox&flow=xtls-rprx-vision&pbk=gVeyusHnhoE_EPLshlFN9sAJ1Dp7j8hB3kvcDeOeYjA&sid=c01fe3d45017db58#MSC %F0%9F%87%A8%F0%9F%87%BF%20%231%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%20%7C%20Reality
-vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@swe-01.gni-daed.ru:443?flow=xtls-rprx-vision&fp=chrome&freeinternet=kizyak_vpn1782111291354&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&security=reality&sid=a8399289e18af5f4&sni=swe-01.gni-daed.ru&type=tcp#MSC %F0%9F%87%B8%F0%9F%87%AA%20%232%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%7C%20Reality
-vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@150.241.65.86:443?type=tcp&headerType=none&security=reality&encryption=none&sni=swe-01.gni-daed.ru&fp=firefox&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&sid=a8399289e18af5f4&flow=xtls-rprx-vision#MSC %F0%9F%87%B8%F0%9F%87%AA%20%233%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%7C%20Reality
-vless://74dd3bb4-8f4f-48d6-9a65-555eb808b9c7@trp.aradart.top:443?security=reality&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=aparat.com&sid=cf13&fp=chrome&pbk=dc3O5Dt33E1G0yRQ2QSeu1sHKmdm5qttYU7iX9vaxGY&spx=/OJvcwptSccl9SOr&mode=auto&extra=%7B%0A%20%20%22xPaddingBytes%22%20:%20%22100-1000%22%0A%7D#MSC %F0%9F%87%A9%F0%9F%87%AA%20%234%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20Reality
+vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@176.109.94.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=QJ147H5yfcsJqQt_hYKgYjWjaViC0fQUCBCji3VFAm4&sid=ad7dab462a323b#MSC %F0%9F%87%B7%F0%9F%87%BA%20%231%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20Reality
+vless://c0fb5126-93f2-45dd-98c7-a1501b93d6db@2.59.80.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rbc.ru&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=1b8e04c90af97d47&spx=%2F#MSC %F0%9F%87%B7%F0%9F%87%BA%20%232%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20Reality
