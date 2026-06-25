@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1782346088
+#last-update: 1782362606
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@176.109.94.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=QJ147H5yfcsJqQt_hYKgYjWjaViC0fQUCBCji3VFAm4&sid=ad7dab462a323b#MSC %F0%9F%87%B7%F0%9F%87%BA%20%231%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20Reality
+vless://994a7e2b-1944-4c7d-877a-d413dca909c7@45.144.51.67:443?type=tcp&headerType=none&security=reality&encryption=none&sni=aneta.kosmolet.xyz&fp=firefox&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&sid=a67894cec8a930c4&flow=xtls-rprx-vision#MSC %F0%9F%87%BA%F0%9F%87%B8%20%231%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://cf30deec-917f-4b1a-bb01-c48527cbc83a@nl.fast-cone.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=JZ-JMdenLtpZb6J991KB0-3T92rACohEpDtqt2M--hs&sid=17&sni=nl.fast-cone.com&spx=/#MSC %F0%9F%87%B3%F0%9F%87%B1%20%232%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20Reality
