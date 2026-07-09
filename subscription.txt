@@ -3,12 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1783611808
+#last-update: 1783619525
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.94.214:443?flow=xtls-rprx-vision&fp=firefox&pbk=3cCVMGigEU7wpQm3SkT7EeBuR7QT9_xgAyiC5trENFY&security=reality&sid=1297b6f0f6dc88d0&sni=www.twitch.tv&type=tcp#MSC %F0%9F%87%B5%F0%9F%87%B1%20%231%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%7C%20Reality
-vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.251.3:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=iGgm7VMLJvgZgGcU5HrgQnXxx8ZvMpVfu2iVJsi8U28&security=reality&sid=70e24f75fa26f6c7&sni=www.twitch.tv&type=tcp#MSC %F0%9F%87%B5%F0%9F%87%B1%20%232%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%7C%20Reality
-vless://fe3db940-1685-4ed8-ad79-3fe4eef9bef2@149.7.2.114:443?flow=xtls-rprx-vision&fp=chrome&pbk=7pZxcabYU7mS1PGCcwlUgq8deeRFUIO4PGzTIt4TgAc&security=reality&sid=b1d901601f285f98&sni=www.yahoo.com#MSC %F0%9F%87%BA%F0%9F%87%B8%20%233%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
-vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.94.215:443?security=reality&encryption=none&pbk=8eDDm9CwDRc-WFaIjHxHTyO0y7WuWLghrN8w8B1w_Vo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.twitch.tv&sid=e3a7014f75f71139#MSC %F0%9F%87%B5%F0%9F%87%B1%20%234%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%7C%20Reality
-vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.251.151:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.twitch.tv&fp=chrome&pbk=IDX70F6aZLh_PruvqfOVRp3bzxzSkCer9ePN-0ZgWAc&sid=e08909dd3362afd1&flow=xtls-rprx-vision#MSC %F0%9F%87%B5%F0%9F%87%B1%20%235%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%7C%20Reality
-vless://b906445e-c53b-4b5a-8d68-3b2a7f9d409c@138.124.98.135:443?security=reality&encryption=none&pbk=agZZLk3GNH8CME1dobmtO1UwIrXYL-WrEuLREy_EqnA&headerType=none&fp=firefox&type=tcp&sni=ads.x5.ru&sid=aefe467c7b22f190#MSC %F0%9F%87%B3%F0%9F%87%B1%20%236%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20Reality
+vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.94.215:443?security=reality&encryption=none&pbk=8eDDm9CwDRc-WFaIjHxHTyO0y7WuWLghrN8w8B1w_Vo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.twitch.tv&sid=e3a7014f75f71139#MSC %F0%9F%87%B5%F0%9F%87%B1%20%231%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%7C%20Reality
+vless://fe3db940-1685-4ed8-ad79-3fe4eef9bef2@149.7.2.114:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7pZxcabYU7mS1PGCcwlUgq8deeRFUIO4PGzTIt4TgAc&security=reality&sid=b1d901601f285f98&sni=www.yahoo.com&type=tcp#MSC %F0%9F%87%BA%F0%9F%87%B8%20%232%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://b906445e-c53b-4b5a-8d68-3b2a7f9d409c@138.124.98.135:443?security=reality&encryption=none&pbk=agZZLk3GNH8CME1dobmtO1UwIrXYL-WrEuLREy_EqnA&headerType=none&fp=firefox&type=tcp&sni=ads.x5.ru&sid=aefe467c7b22f190#MSC %F0%9F%87%B3%F0%9F%87%B1%20%233%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20Reality
