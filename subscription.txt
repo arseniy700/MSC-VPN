@@ -3,10 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1786271399
+#last-update: 1786273404
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
 vless://61b08368-97cf-4f24-9e17-8c4a20cc2eea@87.251.77.95:443?mode=gun&security=reality&encryption=none&pbk=S4n22MVLxeJL3E58_Jm6x5X2RtRvGZRi0fcGUZp27lQ&fp=edge&spx=%2F&type=grpc&sni=www.apple.com&sid=fa3c4d0d247a82d8#MSC %F0%9F%87%A9%F0%9F%87%AA%20%231%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20Reality
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@152.53.82.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qW8UIkS9M8F1BjbAa6Ih1kNL5hkTRDp_DZ5TEpyyIFs&security=reality&sni=shy-tiger.cdn.cachefleet.com&type=tcp#MSC %F0%9F%87%BA%F0%9F%87%B8%20%232%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
-vless://1e973bda-3a02-4431-9df8-83595f6f65d8@194.150.166.12:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=b75SrHI--As9QxOVfRIPkGmGfXjs53CGAjbws2K99Rs&sni=www.avito.ru#MSC %F0%9F%87%B7%F0%9F%87%BA%20%233%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20Reality
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@159.195.56.86:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=witty-blaze.cdn.cachefleet.com&fp=random&pbk=AmsLUlWO0VMr7DWGL4k3dhEXS_eR2898D6ltMp1XMF4#MSC %F0%9F%87%A9%F0%9F%87%AA%20%234%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20Reality
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@159.195.56.86:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=witty-blaze.cdn.cachefleet.com&fp=random&pbk=AmsLUlWO0VMr7DWGL4k3dhEXS_eR2898D6ltMp1XMF4#MSC %F0%9F%87%A9%F0%9F%87%AA%20%232%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20Reality
+vless://50e636af-b554-4526-94ad-d0f4b34adecc@147.45.47.41:443?encryption=none&security=reality&type=tcp&sni=fi.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#MSC %F0%9F%87%AB%F0%9F%87%AE%20%233%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20Reality
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@152.53.82.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qW8UIkS9M8F1BjbAa6Ih1kNL5hkTRDp_DZ5TEpyyIFs&security=reality&sni=shy-tiger.cdn.cachefleet.com&type=tcp#MSC %F0%9F%87%BA%F0%9F%87%B8%20%234%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@194.150.166.12:443?security=reality&flow=xtls-rprx-vision&pbk=b75SrHI--As9QxOVfRIPkGmGfXjs53CGAjbws2K99Rs&sni=www.avito.ru&type=tcp&headerType=none&host=www.avito.ru&path=%2F&fp=qq#MSC %F0%9F%87%B7%F0%9F%87%BA%20%235%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20Reality
