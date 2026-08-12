@@ -3,10 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1786503796
+#last-update: 1786511578
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@212.233.97.156:443?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=ru156.mechvpn.online&type=raw#MSC %F0%9F%87%B7%F0%9F%87%BA%20%231%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru156.mechvpn.online:443?security=tls&encryption=none&sni=ru156.mechvpn.online&flow=xtls-rprx-vision#MSC %F0%9F%87%B7%F0%9F%87%BA%20%232%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none#MSC ⬇️ ОБЫЧНЫЕ СЕРВЕРЫ
-vless://4cfb9456-0921-4547-a684-4614980d4a86@179.198.49.14:443?type=tcp&security=reality&encryption=none&pbk=0tsW6-mbhq0zPODM7BlymfZDYAjSB5S5doDDk8qpYXE&sni=yandex.ru&sid=8e79809e9958ae22&spx=%2F&fp=firefox#MSC %F0%9F%87%BA%F0%9F%87%B8%20%231%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@212.233.97.156:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ru156.mechvpn.online&type=raw&fp=edge#MSC %F0%9F%87%B7%F0%9F%87%BA%20%231%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru156.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=chrome#MSC %F0%9F%87%B7%F0%9F%87%BA%20%232%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
