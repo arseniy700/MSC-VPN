@@ -3,9 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1787211467
+#last-update: 1787214787
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@89.116.243.205:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zDeF_twyyT7a7zKiURF-Q8f6kkj95rx7zQ_jar09Hi4&security=reality&sid=e4f6a3446ac34a23&sni=us.savesafe.cc&type=tcp#MSC %F0%9F%87%BA%F0%9F%87%B8%20%231%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
-vless://cbe5611f-392b-4ec3-9d8b-5bbe59c0fa68@finnode3.frost-api.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&sni=eh.vk.com&fp=chrome#MSC %F0%9F%87%AB%F0%9F%87%AE%20%232%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20Reality
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@89.116.243.185:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zDeF_twyyT7a7zKiURF-Q8f6kkj95rx7zQ_jar09Hi4&security=reality&sid=e4f6a3446ac34a23&sni=us.savesafe.cc&type=tcp#MSC %F0%9F%87%BA%F0%9F%87%B8%20%233%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@89.116.243.185:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zDeF_twyyT7a7zKiURF-Q8f6kkj95rx7zQ_jar09Hi4&security=reality&sid=e4f6a3446ac34a23&sni=us.savesafe.cc&type=tcp#MSC %F0%9F%87%BA%F0%9F%87%B8%20%232%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@usa.opngtr.nl:443?pbk=q-8lriuP627DilumgJAvbowp7YGzWBZg9gSDgbmowjk&security=reality&sid=9f3df965329a8e7f&sni=usa.savesafe.cc&type=xhttp&fp=edge#MSC %F0%9F%87%BA%F0%9F%87%B8%20%233%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.129:443?encryption=none&fp=firefox&pbk=q-8lriuP627DilumgJAvbowp7YGzWBZg9gSDgbmowjk&security=reality&sid=9f3df965329a8e7f&sni=usa.savesafe.cc&type=xhttp#MSC %F0%9F%87%BA%F0%9F%87%B8%20%234%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
