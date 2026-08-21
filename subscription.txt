@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1787311553
+#last-update: 1787313120
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
 vless://f7c25743-140c-4d32-a296-a53bc49682d8@pl-modx.bachidze.com:443?security=reality&encryption=none&sni=pl-modx.bachidze.com&fp=qq&pbk=qsoFtbqHR-PEGFF0kUZgj_HAyJOKMLoCvk-_IssWHQI&flow=xtls-rprx-vision#MSC %F0%9F%87%B5%F0%9F%87%B1%20%231%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%7C%20Reality
