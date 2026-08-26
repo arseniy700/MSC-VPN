@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1787767936
+#last-update: 1787776254
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
 vless://1e77a4ba-1d92-42c2-941f-aa9d0bee9c2f@node_rulv_one.pepen.pro:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.kinopoisk.ru&pbk=yLYyh0xg5ztgfXbGhkMUfMJcoQypJBfxHZ2vMiIThGY&fp=chrome#MSC %F0%9F%87%B7%F0%9F%87%BA%20%231%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20Reality
-vless://26c09f8a-6f6e-4563-a3ba-d679b9e7df89@ru7.foodandgriil.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ya.ru&pbk=y5Iqqek0LAMBPV46CThSY6Lb9z_flu0G_PTX6HhXCAU&flow=xtls-rprx-vision&fp=edge#MSC %F0%9F%87%BA%F0%9F%87%B8%20%232%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
