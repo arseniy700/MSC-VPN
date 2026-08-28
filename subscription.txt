@@ -3,9 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1787893481
+#last-update: 1787938474
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://618acefa-2ff1-41b0-a295-f8a08858a897@185.145.245.168:443?encryption=none&flow=xtls-rprx-vision&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&security=reality&sni=d.tranzit-net.ru&type=tcp&fp=chrome#MSC %F0%9F%87%AB%F0%9F%87%AE%20%231%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20Reality
-vless://618acefa-2ff1-41b0-a295-f8a08858a897@185.145.245.179:443?encryption=none&flow=xtls-rprx-vision&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&security=reality&sni=d.tranzit-net.ru&type=tcp&fp=firefox#MSC %F0%9F%87%AB%F0%9F%87%AE%20%232%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20Reality
-vless://618acefa-2ff1-41b0-a295-f8a08858a897@lv01.tranzit-net.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=d.tranzit-net.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&flow=xtls-rprx-vision&fp=firefox#MSC %F0%9F%87%AB%F0%9F%87%AE%20%233%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20Reality
+vless://88f9c3c2-b3dc-44aa-9490-8e9bc8133535@141.133.172.211:443?security=reality&encryption=none&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=w-mebel.pro&sid=c603efb3ddaf633d&fp=firefox#MSC %F0%9F%87%A8%F0%9F%87%BF%20%231%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%20%7C%20Reality
+vless://88f9c3c2-b3dc-44aa-9490-8e9bc8133535@141.133.172.179:443?security=reality&encryption=none&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=w-mebel.pro&sid=c603efb3ddaf633d&fp=chrome#MSC %F0%9F%87%A8%F0%9F%87%BF%20%232%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%20%7C%20Reality
+vless://88f9c3c2-b3dc-44aa-9490-8e9bc8133535@141.133.175.92:443?security=reality&encryption=none&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=w-mebel.pro&sid=c603efb3ddaf633d&fp=firefox#MSC %F0%9F%87%A8%F0%9F%87%BF%20%233%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%20%7C%20Reality
