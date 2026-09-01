@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1788222077
+#last-update: 1788240376
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://601bde9d-475d-4bae-ad69-c3e44ca30e12@201.24.124.146:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=web.max.ru&pbk=gd2fqgWRBZL_U7tMX6YIdl6yg7I2l3tRuwJj7qjubW8&sid=860ee689&fp=chrome#MSC %F0%9F%87%BA%F0%9F%87%B8%20%231%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://46595814-1c24-453b-b99d-f33779615301@104.194.134.176:443?encryption=none&flow=xtls-rprx-vision&pbk=lymJAptLKD4NpHVg1r4ybQZuGCxilvHP30DDN9Sz82w&security=reality&sid=522545cf95347d03&sni=a2vonderenkerensheide.nl&type=tcp&fp=firefox#MSC %F0%9F%87%BA%F0%9F%87%B8%20%231%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://43ca296b-321f-4b61-a12c-ddf8370b9761@151.242.168.155:443?encryption=none&flow=xtls-rprx-vision&pbk=mWzXDVWUhjGcuizZHA-rEnRpxv2wgeSZUIuHmQdteiA&security=reality&sid=f576da5e05a1d4d2&sni=kibi-institut.de&type=tcp&fp=chrome#MSC %F0%9F%87%BA%F0%9F%87%B8%20%232%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
