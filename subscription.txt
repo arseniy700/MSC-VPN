@@ -3,7 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1788411232
+#last-update: 1788427509
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://d7430ae7-320c-4658-808b-3006d0627d82@endeavouros.ubuntuhosting.host:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=endeavouros.ubuntuhosting.host&pbk=n_-rh8EC8zmzkuu2AmCnKoh09omlYONdgS_F7CStITk&sid=3fa234ea9feaa048&fp=chrome#MSC %F0%9F%87%AB%F0%9F%87%AE%20%231%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20Reality
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@czek1.kovsh.lol:443?type=tcp&security=reality&sni=czek1.kovsh.lol&pbk=crRdG3Hd_QtGCJi9fd1rtHpDIB7vnCx1Yexfu6XkIzU&sid=2cec07a8614696e5&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#MSC %F0%9F%87%A8%F0%9F%87%BF%20%231%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%20%7C%20Reality
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@finkankvd.kovsh.lol:443?type=tcp&security=reality&sni=finkankvd.kovsh.lol&pbk=YBKHp6R7xp2Ss2kxbvDNMFPpRrf3oh1wQ2dVMukPHmA&sid=d110331f200987ae&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#MSC %F0%9F%87%AB%F0%9F%87%AE%20%232%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20Reality
+vless://d7430ae7-320c-4658-808b-3006d0627d82@endeavouros.ubuntuhosting.host:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=endeavouros.ubuntuhosting.host&pbk=n_-rh8EC8zmzkuu2AmCnKoh09omlYONdgS_F7CStITk&sid=3fa234ea9feaa048&fp=chrome#MSC %F0%9F%87%AB%F0%9F%87%AE%20%233%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20Reality
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@gr2.slikmobile.ru:443?type=tcp&security=reality&sni=gr2.slikmobile.ru&pbk=2fZTX_b8h4Cdf2xJCID00BqFzsjtKAAws4Y-OZtNLnE&sid=56f57b965ff599bf&fp=firefox&encryption=none&flow=xtls-rprx-vision#MSC %F0%9F%87%A9%F0%9F%87%AA%20%234%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20Reality
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@usa.savesafe.co:443?type=xhttp&security=reality&path=/&sni=usa.savesafe.co&fp=firefox&pbk=q-8lriuP627DilumgJAvbowp7YGzWBZg9gSDgbmowjk&sid=9f3df965329a8e7f#MSC %F0%9F%87%BA%F0%9F%87%B8%20%235%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://d806a58b-33aa-42e0-b170-395e49c16b37@sql.popmintxo.cc:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Y0noOXC8qHmbM0GmDpj-9BBwKSOtHs-uMbNfKU050GQ&security=reality&sid=b558b9305a0b&sni=www.microsoft.com#MSC %F0%9F%87%BA%F0%9F%87%B8%20%236%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
