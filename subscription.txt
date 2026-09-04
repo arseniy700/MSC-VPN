@@ -3,11 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1788499580
+#last-update: 1788515439
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://2eb1e3e2-34b9-4ca8-864f-9fada68d6c81@bs1.whitehost.org:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=wde5.whitedeu.org&fp=firefox#MSC %F0%9F%87%A9%F0%9F%87%AA%20%231%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none#MSC ⬇️ ОБЫЧНЫЕ СЕРВЕРЫ
-vless://ef5f6054-61c7-4ce8-a35b-dbcec449f242@185.24.151.11:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp&fp=edge#MSC %F0%9F%87%BA%F0%9F%87%B8%20%231%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
-vless://ef5f6054-61c7-4ce8-a35b-dbcec449f242@185.24.151.109:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp&fp=chrome#MSC %F0%9F%87%BA%F0%9F%87%B8%20%232%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
-vless://6db6b948-655f-4f68-a9e7-865050e05b31@alca.foff.ch:443?type=tcp&headerType=none&security=reality&encryption=none&sni=alca.foff.ch&pbk=BS25qHJWxx0kqrcrnA41jOx9HSZTyRVs9tLx-R66oQ4&sid=9a8df4ee3fdf&flow=xtls-rprx-vision&fp=chrome#MSC %F0%9F%87%B3%F0%9F%87%B1%20%233%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20Reality
+vless://c6037cf7-d931-4027-af06-6bfb0f10684c@72.56.75.54:443?encryption=none&security=reality&sni=app2.jarvesitw.ru&pbk=iTCQz0n0AolvGxU2ZASJIsSVoKOR9PAFbnZVQDnSnF8&sid=c481d750&spx=%2F&flow=xtls-rprx-vision&fp=edge#MSC %F0%9F%87%B3%F0%9F%87%B1%20%231%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20Reality
