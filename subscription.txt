@@ -3,7 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1789594239
+#last-update: 1789603362
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
+vless://212fe317-771e-458e-af13-7dd2ef11c1d8@ru.datanode-internal.net:443?type=tcp&headerType=none&security=reality&encryption=none&sni=openwrt.lan&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128&flow=xtls-rprx-vision&fp=edge#MSC %F0%9F%87%B7%F0%9F%87%BA%20%231%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none#MSC ⬇️ ОБЫЧНЫЕ СЕРВЕРЫ
 vless://98d0fa1b-d778-477e-b897-4e2569c53178@fr-gra-ovh-03.stre4m.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=mother-earth.fyi&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#MSC %F0%9F%87%BA%F0%9F%87%B8%20%231%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
