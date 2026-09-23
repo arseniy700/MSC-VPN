@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1790185235
+#last-update: 1790197280
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://88956de8-38db-449c-8410-4b70a4fb5c9b@newstate.vihodest.net:443?flow=xtls-rprx-vision&pbk=pUhzWvqjWtFBW43XML2XHUAyR7B5piWLMEY5hDTzARc&security=reality&sni=newstate.vihodest.net&type=tcp&fp=chrome#MSC %F0%9F%87%BA%F0%9F%87%B8%20%231%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@surstreming.vvzzkontaktezzvv.garden:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=surstreming.vvzzkontaktezzvv.garden&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&sid=fb442438e2223836&fp=edge#MSC %F0%9F%87%B8%F0%9F%87%AA%20%231%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%7C%20Reality
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@5.157.10.148:443?encryption=none&flow=xtls-rprx-vision&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&security=reality&sid=fb442438e2223836&sni=surstreming.vvzzkontaktezzvv.garden&type=tcp&fp=edge#MSC %F0%9F%87%B8%F0%9F%87%AA%20%232%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%7C%20Reality
