@@ -3,10 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1790238064
+#last-update: 1790257252
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@5.157.10.148:443?encryption=none&flow=xtls-rprx-vision&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&security=reality&sid=fb442438e2223836&sni=surstreming.vvzzkontaktezzvv.garden&type=tcp&fp=edge#MSC %F0%9F%87%B8%F0%9F%87%AA%20%231%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%7C%20Reality
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@fintanil228.vvzzkontaktezzvv.garden:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fintanil228.vvzzkontaktezzvv.garden&pbk=YBKHp6R7xp2Ss2kxbvDNMFPpRrf3oh1wQ2dVMukPHmA&sid=d110331f200987ae&spx=%2F&fp=chrome#MSC %F0%9F%87%AB%F0%9F%87%AE%20%232%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20Reality
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@196.196.206.37:443?encryption=none&flow=xtls-rprx-vision&pbk=YBKHp6R7xp2Ss2kxbvDNMFPpRrf3oh1wQ2dVMukPHmA&security=reality&sid=d110331f200987ae&sni=fintanil228.vvzzkontaktezzvv.garden&type=tcp&fp=chrome#MSC %F0%9F%87%AB%F0%9F%87%AE%20%233%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20Reality
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@surstreming.vvzzkontaktezzvv.garden:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=surstreming.vvzzkontaktezzvv.garden&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&sid=fb442438e2223836&fp=edge#MSC %F0%9F%87%B8%F0%9F%87%AA%20%234%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%7C%20Reality
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@surstreming.vvzzkontaktezzvv.garden:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=surstreming.vvzzkontaktezzvv.garden&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&sid=fb442438e2223836&fp=edge#MSC %F0%9F%87%B8%F0%9F%87%AA%20%231%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%7C%20Reality
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@5.157.10.148:443?encryption=none&flow=xtls-rprx-vision&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&security=reality&sid=fb442438e2223836&sni=surstreming.vvzzkontaktezzvv.garden&type=tcp&fp=edge#MSC %F0%9F%87%B8%F0%9F%87%AA%20%232%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%7C%20Reality
