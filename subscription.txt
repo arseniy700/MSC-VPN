@@ -3,10 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1790437308
+#last-update: 1790449060
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://dc0d27ba-34d2-4c8b-9cba-9ddbbb632748@161.104.107.97:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&pbk=V6DsIO1Bnyj5xLsTtYzyz2KGkkpgpt7I3L-SN06Du1Y&sid=348b9654fcb1&spx=%2FUDqENK8Q6q4i2hl&type=tcp&fp=edge#MSC %F0%9F%87%B7%F0%9F%87%BA%20%231%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none#MSC ⬇️ ОБЫЧНЫЕ СЕРВЕРЫ
-vless://718b9643-20e3-4f9e-9f8d-87ce6801d55e@191.44.114.66:443?encryption=none&type=grpc&security=reality&sni=ai.android&pbk=uE1WBdW9se1rQnx8Vh-a1jjaehzK-iUmCVrPui5KU3g&sid=53499a662395&spx=%2F&allowInsecure=1&fp=firefox#MSC %F0%9F%87%B8%F0%9F%87%AA%20%231%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%7C%20Reality
-vless://10b78ac4-d4ce-43d2-98c4-c62c96fcbdc2@85.137.252.145:443?encryption=none&security=reality&sni=www.google.com&pbk=0A_u9HtXZ7UqLGeZiM9ZEJIGb0mU4h_OFB2dmi2MvG8&type=xhttp&path=%2F&mode=auto&fp=qq#MSC %F0%9F%87%AB%F0%9F%87%AE%20%232%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20Reality
+vless://cc39844c-d9ba-4394-9cae-395933f4e353@31.76.65.234.fwqfw783rg2dad.website:443?encryption=none&security=tls&sni=31.76.65.234.fwqfw783rg2dad.website&alpn=http%2F1.1&type=ws&path=%2Fwebsocket&host=31.76.65.234.fwqfw783rg2dad.website&ed=2560&eh=Sec-WebSocket-Protocol&fp=ios#MSC %F0%9F%87%B7%F0%9F%87%BA%20%231%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
