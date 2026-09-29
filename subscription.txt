@@ -3,11 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1790666240
+#last-update: 1790691142
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://6efeb0bb-d938-4543-9d27-062148db8fad@195.189.98.4:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&security=reality&sid=f68f32d02dbd5147&sni=fastne.incrediblespeed.online&type=tcp#MSC %F0%9F%87%B3%F0%9F%87%B1%20%231%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20Reality
-vless://ca5ffe64-81e0-42f0-a136-03cc4f662a4f@94.249.225.106:443?type=tcp&headerType=none&security=reality&encryption=none&sni=thnet.krusofiya.fun&fp=firefox&pbk=oFuK9Xldbcr064LYxzvc-wGEQpdTs5J3ybFuOXlW0SQ&sid=8fffb104368e75d5&spx=%2F#MSC %F0%9F%87%B3%F0%9F%87%B1%20%232%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20Reality
-vless://ca5ffe64-81e0-42f0-a136-03cc4f662a4f@138.124.17.179:443?encryption=none&security=reality&sni=finewl1.krusofiya.fun&fp=random&pbk=eqlfwoHUoRvNeOKYzCzHSV64rSzyUVGS2w_nsOpWIG4&sid=ffdf2e6056999b66&spx=%2F&type=tcp#MSC %F0%9F%87%AB%F0%9F%87%AE%20%233%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20Reality
-vless://c4f5d29c-9eec-4451-861e-3b13d0549f85@94.247.129.111:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TV1_HquAAEYsQoT8IAKif3DOCpxb0omm7hXzVG0_H20&security=reality&sid=c36a92e068&sni=c3h82xhny.denditop.site&type=tcp#MSC %F0%9F%87%B0%F0%9F%87%BF%20%234%20%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%20%7C%20Reality
-vless://eec2f6a7-c10f-43b0-b133-61f9bf9bbc27@45.146.90.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bPbAdn6ogLbiv5cRe5d12EL7FhooAIVrC3-fg90P-Bw&security=reality&sid=72104d27a0f5f62e&sni=www.amazon.com&type=tcp#MSC %F0%9F%87%BA%F0%9F%87%B8%20%235%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://e9844617-e393-4876-afa7-11859695f4ee@pl.gazladder.work:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl.gazladder.work&pbk=SoMfQzFhE5QfKWMZA7ZNkYP63P5hiyWEbE9fsPIP4Go&fp=chrome#MSC %F0%9F%87%B5%F0%9F%87%B1%20%231%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%7C%20Reality
+vless://2412bd96-925b-43f2-81d1-0ed4f0793699@51.89.13.62:443?encryption=none&flow=xtls-rprx-vision&pbk=5oAHRDQjrl8xOCvH3fPLCosMO6STI_hifhcmfIUU6UM&security=reality&sid=8339f2680588f5ee&sni=repo1.maven.org&type=tcp&fp=chrome#MSC %F0%9F%87%A9%F0%9F%87%AA%20%232%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20Reality
