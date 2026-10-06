@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1791296458
+#last-update: 1791315643
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://1b295b11-7abd-4f52-a7ee-5b455f24b31f@151.242.104.93:443?encryption=none&flow=xtls-rprx-vision&pbk=oXYB-DXrI08UVBRFq8MERP36betSSd7Yb6MLN88F2R4&security=reality&sid=f6b5862c1f73ab80&sni=asfkc.org&type=tcp&fp=firefox#MSC %F0%9F%87%BA%F0%9F%87%B8%20%231%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://2b781b4a-5942-001c-a7f3-5a07b7b488c1@185.147.82.233:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=pro-br-gen-d.sworkingvpn.com&pbk=qB4kX0ku3vRfvd4Ftwedbsj7m2bUmKdXFqKA0Ks-gmM&sid=15bcc0a77c3cacdf&fp=firefox#MSC %F0%9F%87%B7%F0%9F%87%BA%20%231%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
+vless://20ef7310-0b50-4943-98a6-3d0856b383b1@fi.alpheratzz.org:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=20ef7310.ferrin.uk&path=%2F&host=fi.alpheratzz.org&fp=chrome#MSC %F0%9F%87%AB%F0%9F%87%AE%20%232%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
