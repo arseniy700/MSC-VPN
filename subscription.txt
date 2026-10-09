@@ -3,11 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1791559697
+#last-update: 1791576957
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://a5893c8b-28a2-4947-9a1c-708db25506c3@91.215.43.248:443?type=ws&security=tls&encryption=none&path=%2Fgateway%2Fv1%2Fws%2Fa64eb463966ba9c4bfd628f1de0362ae&host=my.kempekl.online&sni=my.kempekl.online&headerType=none&fp=safari#MSC %F0%9F%87%B5%F0%9F%87%B1%20%231%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
+vless://a5893c8b-28a2-4947-9a1c-708db25506c3@91.215.43.248:443?encryption=none&host=my.kempekl.online&path=%2Fgateway%2Fv1%2Fws%2Fa64eb463966ba9c4bfd628f1de0362ae&security=tls&sni=my.kempekl.online&type=ws&fp=qq#MSC %F0%9F%87%B5%F0%9F%87%B1%20%231%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none#MSC ⬇️ ОБЫЧНЫЕ СЕРВЕРЫ
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi-s-1.pythonmakemigreat.wiki:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi-s-1.pythonmakemigreat.wiki&fp=chrome&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=78f97d82e16aaad6&type=tcp#MSC %F0%9F%87%B3%F0%9F%87%B1%20%231%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20Reality
-vless://d806a58b-33aa-42e0-b170-395e49c16b37@sql.popmintxo.cc:443?security=reality&encryption=none&pbk=Y0noOXC8qHmbM0GmDpj-9BBwKSOtHs-uMbNfKU050GQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=b558b9305a0b#MSC %F0%9F%87%A9%F0%9F%87%AA%20%232%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20Reality
-vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?&security=reality&flow=xtls-rprx-vision&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&sid=21270a66&fp=chrome&sni=aws.amazon.com&type=tcp&headerType=none&host=aws.amazon.com&path=%2F#MSC %F0%9F%87%BA%F0%9F%87%B8%20%233%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?security=reality&encryption=none&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=portal.citygrainla.com&sid=051f20c2344a2dfd#MSC %F0%9F%87%B3%F0%9F%87%B1%20%232%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20Reality
