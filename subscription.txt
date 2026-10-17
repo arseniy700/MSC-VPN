@@ -3,8 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1792189691
+#last-update: 1792197705
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://e625f8ef-f935-4c7d-a259-0f154b6842fd@seal-cz.bypassme.online:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=seal-cz.bypassme.online&pbk=jQC3Kmmbu-CfUKlQaeuSn4I8dbqAZhpgihZhWu1SvBk&sid=6b69118a7847c4c3&fp=edge#MSC %F0%9F%87%A8%F0%9F%87%BF%20%231%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%20%7C%20Reality
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@sw.golangwikito.cfd:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=sw.golangwikito.cfd&pbk=Kb8SsVPprs46BJSUNp5JvWLI-TFEiHmlBOXLQd37Glg&sid=a1037b25dcef6aa7&allowInsecure=1&fp=chrome#MSC %F0%9F%87%B3%F0%9F%87%B1%20%232%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20Reality
+vless://e625f8ef-f935-4c7d-a259-0f154b6842fd@195.133.35.171:443?encryption=none&flow=xtls-rprx-vision&pbk=jQC3Kmmbu-CfUKlQaeuSn4I8dbqAZhpgihZhWu1SvBk&security=reality&sid=6b69118a7847c4c3&sni=seal-cz.bypassme.online&type=tcp&fp=chrome#MSC %F0%9F%87%A8%F0%9F%87%BF%20%231%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%20%7C%20Reality
+vless://e625f8ef-f935-4c7d-a259-0f154b6842fd@seal-cz.bypassme.online:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=seal-cz.bypassme.online&pbk=jQC3Kmmbu-CfUKlQaeuSn4I8dbqAZhpgihZhWu1SvBk&sid=6b69118a7847c4c3&fp=chrome#MSC %F0%9F%87%A8%F0%9F%87%BF%20%232%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%20%7C%20Reality
