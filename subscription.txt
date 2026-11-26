@@ -3,7 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/msc_vpn_support_bot
 #profile-web-page-url: https://t.me/msc_vpn_support_bot
-#last-update: 1795665307
+#last-update: 1795699809
 #announce: 🏳️БЕЛЫЕ СПИСКИ🗽 | ⚠️ВАЖНО: НЕ ДЛЯ Wi-Fi С ГЛУШИЛКАМИ | 🆘Помощь в TG
 
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@176.108.245.73:443?flow=xtls-rprx-vision&security=reality&sni=pawuk.belka.tv&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&fp=qq#MSC %F0%9F%87%A8%F0%9F%87%BF%20%231%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@48.102.207.167:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.google.com&pbk=MZEux6K9MlKwN9dto2Mj2gGS6IJSEs229nFPh5aYwSQ&sid=32e95dff907cc876&fp=firefox#MSC %F0%9F%87%BA%F0%9F%87%B8%20%231%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://79dabc26-e535-419f-a034-a6fe4438d41f@200.234.112.37:443?security=reality&encryption=none&pbk=nylVdFaZ2E3hh8j8Hfyui1TIrKMkdSThvrX_V_sEXAY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=fcf9ec34a0421c5d#MSC %F0%9F%87%BA%F0%9F%87%B8%20%232%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@48.102.207.172:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.google.com&pbk=iZOSshApMLZQ_qeN8ra7h_y9ig2P5yHHiKcN_6kxNmU&sid=3a75d125d1a41392&fp=firefox#MSC %F0%9F%87%BA%F0%9F%87%B8%20%233%20%D0%A1%D0%A8%D0%90%20%7C%20Reality
